@@ -28,13 +28,19 @@ var quotes = [
     ['Discipline equals freedom.', 'Jocko Willink'],
     ['Relax. Look around. Make a call.', 'Jocko Willink'],
     ['Don’t expect to be motivated every day to get out there and make things happen. You won’t be. Don’t count on motivation. Count on Discipline.', 'Jocko Willink'],
+    ['You have to do the work. You have to hold the line. You have to make it happen.', 'Jocko Willink'],
+    ['To implement real change, to drive people to accomplish something truly complex or difficult or dangerous — you can’t make people do these things. You have to lead them.', 'Jocko Willink'],
+    ['Extreme ownership. Leaders must own everything in their world.  There is no one else to blame.', 'Jocko Willink'],
     ['There are no shortcuts—everything is reps, reps, reps.', 'Arnold Schwarzenegger'],
     ['There is no need to tell someone how to do his job if you have properly trained your team.', 'Dick Winters'],
     ['Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.', 'Theodore Roosevelt'],
     ['This is the most simple and basic component of life: our struggles determine our successes.', 'Mark Manson'],
     ['Everything that happens to you is a form of instruction if you pay attention.', 'Robert Greene'],
     ['The pain is kind of challenge your mind presents - will you learn how to focus and move past boredom, or like a child will you succumb to the need for immediate pleasure and distraction?', 'Robert Greene'],
-    ['No man needs sympathy because he has to work, because he has a burden to carry. Far and away the best prize that life offers is the chance to work hard at work worth doing.', 'Theodore Roosevelt']
+    ['No man needs sympathy because he has to work, because he has a burden to carry. Far and away the best prize that life offers is the chance to work hard at work worth doing.', 'Theodore Roosevelt'],
+    ['I shall either find a way or make one.', 'Hannibal'],
+    ['The only way that you’re ever going to get to the other side of this journey is by suffering.  You have to suffer in order to grow.', 'David Goggins'],
+    ['Motivation is crap. Motivation comes and goes. When you’re driven, whatever is in front of you will get destroyed.', 'David Goggins']
 ];
 ```
 
