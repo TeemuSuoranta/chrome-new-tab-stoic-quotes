@@ -4,11 +4,11 @@
 
 ## Installation
 
-* Clone or download this repository
-* Install [Super Evil New Tab extension](https://chrome.google.com/webstore/detail/super-evil-new-tab/dhphmpoekpoecdbjeionimpiceigkeil) to Chrome
-* Open Super Evil New Tab Options
-* Import `SuperEvilNewTab.conf.json`
-* Done
+- Clone or download this repository
+- Install [Super Evil New Tab extension](https://chrome.google.com/webstore/detail/super-evil-new-tab/dhphmpoekpoecdbjeionimpiceigkeil) to Chrome
+- Open Super Evil New Tab Options
+- Import `SuperEvilNewTab.conf.json`
+- Done
 
 ## Quotes
 
@@ -40,13 +40,22 @@ var quotes = [
     ['No man needs sympathy because he has to work, because he has a burden to carry. Far and away the best prize that life offers is the chance to work hard at work worth doing.', 'Theodore Roosevelt'],
     ['I shall either find a way or make one.', 'Hannibal'],
     ['The only way that you’re ever going to get to the other side of this journey is by suffering.  You have to suffer in order to grow.', 'David Goggins'],
-    ['Motivation is crap. Motivation comes and goes. When you’re driven, whatever is in front of you will get destroyed.', 'David Goggins']
+    ['Motivation is crap. Motivation comes and goes. When you’re driven, whatever is in front of you will get destroyed.', 'David Goggins'],
+    ['Everyday is a great day. I have my faith, my family, and live in the finest country in the world.', 'General James Mukoyama'],
+    ['Don’t just think. Don’t just talk. Don’t just dream. None of that matters. The only thing that matters is that you actually do. So: DO.', 'Jocko Willink'],
+    ['Extreme ownership. Leaders must own everything in their world. There is no one else to blame.', 'Jocko Willink'],
+    ['Remember that if you don’t prioritize your life someone else will.', 'Greg Mckeown'],
+    ['But until a person can say deeply and honestly, "I am what I am today because of the choices I made yesterday," that person cannot say, "I choose otherwise."', 'Stephen R. Covey'],
+    ['You have to take great pleasure in the fact that no one wants to be where you are at right now. It has to bring passion out of you.', 'David Goggins'],
+    ['It doesn’t have to be fun. It has to be effective.', 'David Goggins'],
+    ['If you can make one heap of all your winning and risk it on one turn of pitch-and-toss, and lose, and start again at your beginnings and never breathe a word about your loss', 'Rudyard Kipling'],
+    ['Improving daily work is even more important than doing daily work.', 'Gene Kim'],
+    ['When you realize the story you\'re telling is just words, when you can just crumble up and throw your past in the trashcan, then we\'ll figure out who you\'re going to be.', 'Chuck Palahniuk'],
+    ['The purpose of life is finding the largest burden that you can bear and bearing it.', 'Jordan Peterson'],
+    ['You\'re going to pay a price for every bloody thing you do and everything you don\'t do. You don\'t get to choose to not pay a price. You get to choose which poison you\'re going to take. That\'s it.', 'Jordan Peterson'],
+    ['I don\'t tell people, "You\'re okay the way that you are." That\'s not the right story. The right story is, "You\'re way less than you could be."', 'Jordan Peterson']
 ];
 ```
-
-## Styles
-
-Light theme would be nice but the extension has a blink of black background and making colours dark makes it little more bearable.
 
 ## Contributing
 
