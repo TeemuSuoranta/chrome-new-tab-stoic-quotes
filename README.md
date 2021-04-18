@@ -53,7 +53,8 @@ var quotes = [
     ['When you realize the story you\'re telling is just words, when you can just crumble up and throw your past in the trashcan, then we\'ll figure out who you\'re going to be.', 'Chuck Palahniuk'],
     ['The purpose of life is finding the largest burden that you can bear and bearing it.', 'Jordan Peterson'],
     ['You\'re going to pay a price for every bloody thing you do and everything you don\'t do. You don\'t get to choose to not pay a price. You get to choose which poison you\'re going to take. That\'s it.', 'Jordan Peterson'],
-    ['I don\'t tell people, "You\'re okay the way that you are." That\'s not the right story. The right story is, "You\'re way less than you could be."', 'Jordan Peterson']
+    ['I don\'t tell people, "You\'re okay the way that you are." That\'s not the right story. The right story is, "You\'re way less than you could be."', 'Jordan Peterson'],
+    ['The cave you fear to enter holds the treasure you seek.', 'Joseph Campbell']
 ];
 ```
 
